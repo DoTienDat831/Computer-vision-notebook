@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B1 Digital Imaging Fundamentals.md",
+                "file": "B2 Image Enhancement Point Processing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B1 Digital Imaging Fundamentals"
+              "title": "B2 Image Enhancement Point Processing"
             }
           }
         ]
@@ -190,7 +190,18 @@
   },
   "active": "a3a9b3fd84a6a172",
   "lastOpenFiles": [
-    "Welcome.md",
-    "B1 Digital Imaging Fundamentals.md"
+    "Homeworks/Bai1_DoTienDat.ipynb",
+    "Homeworks/Unconfirmed 592665.crdownload",
+    "B3 Histogram Equalization.md",
+    "Homeworks",
+    "Pasted/Pasted image 20261006211046.png",
+    "Pasted/Pasted image 20261006211016.png",
+    "Pasted/Pasted image 20261006211006.png",
+    "Pasted",
+    "Pasted/Pasted image 20261006210922.png",
+    "B4 Spartial Filtering.md",
+    "B2 Image Enhancement Point Processing.md",
+    "B1 Digital Imaging Fundamentals.md",
+    "Welcome.md"
   ]
 }

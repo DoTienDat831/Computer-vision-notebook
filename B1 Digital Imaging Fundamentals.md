@@ -4,6 +4,9 @@ Hình ảnh được tạo ra bằng cách chiếu sáng một cảnh và hấp 
 
 Hình ảnh kỹ thuật số luôn chỉ là sự xấp xỉ của cảnh thực tế.
 
+**Sampling and Quantisation** - Hai bước cơ bản để biến một ảnh liên tục trong thế giới thực thành ảnh số mà máy tính có thể lưu trữ và xử lý.
+- Sampling 
+
 IMAGE REPRESENTATION
 - Một ảnh kỹ thuật số được tạo từ M hàng và N cột điểm ảnh, mỗi điểm ảnh lưu trữ một giá trị.
 - Giá trị điểm ảnh thường là các mức xám trong khoảng 0 - 255 (Đen - Trắng).
